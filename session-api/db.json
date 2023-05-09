@@ -203,6 +203,13 @@
         "rate": 3.8,
         "count": 679
       }
+    },
+    {
+      "title": "I phone 14",
+      "price": "14000",
+      "description": "Electronics",
+      "category": "new",
+      "id": 18
     }
   ]
 }
