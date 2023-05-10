@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops new",
+      "price": "125",
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
+      "category": "men's clothing updated",
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
       "rating": {
         "rate": 3.9,
@@ -205,27 +205,18 @@
       }
     },
     {
-      "id": 18,
-      "title": "edit num1 updated",
-      "price": "123",
-      "description": "asdeqwghhj",
-      "category": "xcvb"
+      "title": "I phone 14",
+      "price": "21000",
+      "description": "abc",
+      "category": "a",
+      "id": 23
     },
     {
-      "id": 19
-    },
-    {
-      "id": 20
-    },
-    {
-      "id": 21
-    },
-    {
-      "title": "wwww",
-      "price": "5",
-      "description": "jjjjj",
-      "category": "jjjjjj",
-      "id": 22
+      "title": "samssung note book 8",
+      "price": "11000",
+      "description": "abc",
+      "category": "A",
+      "id": 24
     }
   ]
 }
